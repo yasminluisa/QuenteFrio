@@ -4,7 +4,11 @@ Implemente um jogo de adivinha. No jogo o computador sorteará um número entre 
 A cada palpite errado dê uma dica:
 
 está quente caso tenha errado por 10 ou menos;
+
 está pelando caso tenha errado por três ou menos;
+
 está congelando caso tenha errado por 30 ou mais.
+
 está frio nos demais casos.
+
 Nos palpites congelando e frio indique se o número secreto é maior ou menor do que o palpite.
